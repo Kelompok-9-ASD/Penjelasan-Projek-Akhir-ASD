@@ -4,4 +4,4 @@
 DESKRIPSI PROGRAM
 
 
-Pada pemograman Python kali ini akan mengusung tema list obat obatan pada toko apotek yang dirancang untuk mengelola operasi sorting & searching pada toko apetok secara efektif. Program dapat menstock obat dan produk lainnya di toko apotek, produk dapat ditambahkan ke inventori.
+Pada pemograman Python kali ini akan mengusung tema pharmacy medicines list yang dirancang untuk mengelola operasi sorting & searching pada pharmacy secara efektif. Program dapat menstock obat dan produk lainnya, produk dapat ditambahkan ke inventori.
