@@ -10,7 +10,7 @@ Nabil Fikri
 Rivaldo
 
 
-====================================================================================================================================================================
+=================================================================================
 DESKRIPSI PROGRAM
 
 
@@ -23,7 +23,7 @@ Class Pharmacy berisi daftar objek Pengguna, yang mewakili pengguna yang dapat m
 Metode login_required meminta pengguna untuk memasukan nama pengguna dan kata sandi mereka dan memverifikasi kredensial mereka menggunakan metode login, yang memeriksa apakah nama pengguna dan kata sandi cocok dengan pengguna yang terdaftar. Metode add_user dan remove_user memungkinkan pengelolaan akun pengguna jadi efisien.
 
 
-====================================================================================================================================================================
+=================================================================================
 STRUKTUR PROJECT
 
 
@@ -50,7 +50,7 @@ Operasi/operator yang digunakan adalah:
 5. Sort : fungsi untuk mengurutkan data.
 
 
-====================================================================================================================================================================
+==================================================================================
 FITUR & FUNGSI
 
 
